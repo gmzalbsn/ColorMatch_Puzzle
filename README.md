@@ -36,6 +36,6 @@ In short, this project demonstrates
 
 ## Screenshots
 <p align="center">
-  <img src="Assets/ScreenShots/level-example-1.png" width="250"/>
-  <img src="Assets/ScreenShots/level-example-2.png" width="250"/>
+  <img src="Assets/ScreenShots/Screenshotslevel-example-1.png" width="250"/>
+  <img src="Assets/ScreenShots/Screenshotslevel-example-2.png" width="250"/>
 </p>
